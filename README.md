@@ -4,7 +4,7 @@
 <br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaeyoung714)](https://github.com/anuraghazra/github-readme-stats) <br><br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=깃허브아이디)](https://github.com/Chaeyoung714/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chaeyoung714)](https://github.com/Chaeyoung714/github-readme-stats)
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=joychae0714)](https://solved.ac/joychae0714)
