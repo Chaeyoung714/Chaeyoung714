@@ -1,10 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00b749,100:fefe66&height=150&section=header&text=Welcome%20to-nl-Chaeyoung's%20Github&fontSize=30&fontColor=------" />
 
 ![js](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-<br><br>
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaeyoung714)](https://github.com/anuraghazra/github-readme-stats) <br><br>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chaeyoung714)](https://github.com/Chaeyoung714/github-readme-stats)
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=joychae0714)](https://solved.ac/joychae0714)
