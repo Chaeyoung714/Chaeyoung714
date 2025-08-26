@@ -1,6 +1,12 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00b749,100:fefe66&height=150&section=header&text=Welcome%20to-nl-Chaeyoung's%20Github&fontSize=30&fontColor=------" />
 
+<br>
+
 ### 안녕하세요, 문제를 해결하겠다는 강한 의지를 갖고 도전하고 뛰어드는 백엔드 개발자 이채영입니다.
+
+<br>
+
+---
 
 ## About me
 
@@ -28,32 +34,17 @@
 | --- | --- | --- |
 | 우아한테크코스 7기 BE | 2025.02 - 2025.11 (진행중) | [아카이브](https://github.com/Chaeyoung714/woowacourse-archieve) |
 | 멋쟁이사자처럼 12기 BE 운영진 | 2024.02 - 2025.01 | [회고](https://velog.io/@joychae714/24-1-%EB%A9%8B%EC%82%AC-%EC%9A%B4%EC%98%81%EC%A7%84%EC%9C%BC%EB%A1%9C%EC%84%9C-%EB%B0%B1%EC%97%94%EB%93%9C-%EC%84%B8%EC%85%98-%ED%9A%8C%EA%B3%A0) |
-| 멋쟁이사자처럼 11기 BE | 2023.03 - 2024.01 |  |
 
 <br>
 
+학습과 경험은 제 [기술 블로그](https://velog.io/@joychae714/posts)에서 정리 중이에요. <br><br>
+
+---
+
 ## ETC
 
-[![AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/cc572356-c7b7-40c8-9ecd-8bd13c410467/public_url)]([https://www.credly.com/badges/xxxxxxx](https://www.credly.com/badges/cc572356-c7b7-40c8-9ecd-8bd13c410467/public_url))
+<image src="./aws-certified-solutions-architect-associate.png" width="150" height="150" />
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=joychae0714)](https://solved.ac/joychae0714)
-
-
-
-🏃‍♂️ 이런 것들을 공부하고 있고, 앞으로도 공부할 예정이예요.<br>
-
-
-🧑‍💻 그치만 이런 것들도 공부하고 있어요.<br>
-
-![js](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
-)
-![js](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
-![js](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)<br>
-
-![js](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![js](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
- <br>
 
