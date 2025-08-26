@@ -49,3 +49,13 @@
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=joychae0714" alt="Solved.ac 프로필"/>
   </a>
 </p>
+
+---
+
+## 📬 Contact
+
+<p align="center">
+  <a href="mailto:chaeyoung0714@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+</p>
